@@ -2,7 +2,6 @@ Country Code,Name,City,System ID,URL,Auto-Discovery URL
 BE,Donkey Republic Ghent,Ghent,donkey_gh,https://www.donkey.bike/cities/bike-rental-ghent/,https://stables.donkey.bike/api/public/gbfs/donkey_gh/gbfs.json
 NL,Donkey Republic Rotterdam & Den Haag,Rotterdam & Den Haag,donkey_rt,https://www.donkey.bike/nl/steden/deelfietsen-rotterdam/,https://stables.donkey.bike/api/public/gbfs/donkey_rt/gbfs.json
 NL,Donkey Republic Utrecht,Utrecht,donkey_ut,https://www.donkey.bike/cities/bike-rental-utrecht/,https://stables.donkey.bike/api/public/gbfs/donkey_ut/gbfs.json
-NL,Donkey Republic Hoofddorp,Hoofddorp,donkey_hoofddorp,https://www.donkey.bike/cities/bike-rental-hoofddorp/,https://stables.donkey.bike/api/public/gbfs/donkey_hoofddorp/gbfs.json
 NL,Donkey Republic Amsterdam,Amsterdam,donkey_am,https://www.donkey.bike/cities/bike-rental-amsterdam/,https://stables.donkey.bike/api/public/gbfs/donkey_am/gbfs.json
 DK,Donkey Republic Aalborg,Aalborg,donkey_aalborg,https://www.donkey.bike/cities/bike-rental-aalborg/,https://stables.donkey.bike/api/public/gbfs/donkey_aalborg/gbfs.json
 DK,Donkey Republic Aarhus,Aarhus,donkey_aarhus,https://www.donkey.bike/cities/bike-rental-aarhus/,https://stables.donkey.bike/api/public/gbfs/donkey_aarhus/gbfs.json
