@@ -71,8 +71,8 @@ NL,Donkey Republic Den Haag,Den Haag,donkey_den_haag,https://www.donkey.bike/cit
 FR,Donkey Republic Brest,Brest,donkey_brest,https://www.donkey.bike/cities/bike-rental-brest/,https://stables.donkey.bike/api/public/gbfs/donkey_brest/gbfs
 DK,Donkey Republic Hillerød,Hillerød,donkey_hillerod,"",https://stables.donkey.bike/api/public/gbfs/donkey_hillerod/gbfs
 DK,Donkey Republic Kiel,Kiel,donkey_kiel,https://www.donkey.bike/cities/bike-rental-kiel/,https://stables.donkey.bike/api/public/gbfs/2/donkey_kiel/gbfs
-DK,Donkey Ballerup,Ballerup,donkey_ballerup  
-NL,Donkey Gorinchem,Gorinchem,donkey_gorinchem  
+DK,Donkey Ballerup,Ballerup,donkey_ballerup,https://www.donkey.bike/cities/bike-rental-ballerup/,https://stables.donkey.bike/api/public/gbfs/2/donkey_ballerup/gbfs  
+NL,Donkey Gorinchem,Gorinchem,donkey_gorinchem,https://www.donkey.bike/cities/bike-rental-gorinchem/,https://stables.donkey.bike/api/public/gbfs/2/donkey_gorinchem/gbfs  
 DE,Donkey Regensburg,Regensburg,donkey_regensburg,https://www.donkey.bike/terms-and-conditions/,https://www.donkey.bike/cities/bike-rental-regensburg/
 NL,Donkey Republic Utrechtse Heuvelrug,Ghent,donkey_utrechtse_heuvelrug https://www.donkey.bike/terms-and-conditions/,https://www.donkey.bike/cities/bike-rental-ghent/
 DE,Donkey Republic Bamberg,Bamberg,donkey_bamberg,https://www.donkey.bike/terms-and-conditions/,https://www.donkey.bike/cities/bike-rental-berlin/
